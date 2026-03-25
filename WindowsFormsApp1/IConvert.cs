@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WindowsFormsApp1
 {
     public interface IConvert
-    {
+    { //ovo je komentar u interfejsu iConvert
         double Convert(double value);
     }
 }
